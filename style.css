@@ -1,13 +1,23 @@
 body {
-  background: #fcead7;
-  color: #FD5D21;
+  background: #f44c29;
+  color: #f4a67d;
   font-family: "Roboto", sans-serif;
   text-align: center;
   font-size: 48px;
 }
 h1 {
   font-size: 120px;
-  color: #FD5D21;
+  color: #67544e;
   font-family: "Roboto", sans-serif;
   text-align: center;
+}
+nav {
+  display: flex;
+  flex-direction: column;
+}
+a {
+  text-decoration:none;
+  background: black;
+  color:white;
+  margin: 20px; display: block;
 }
