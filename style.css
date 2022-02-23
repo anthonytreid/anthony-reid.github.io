@@ -1,9 +1,11 @@
 body {
   background: #fcead7;
-  color: white;
+  color: #67544e;
 }
 h1 {
   font-size: 120px;
   color:#67544e;
     font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
+
