@@ -1,6 +1,8 @@
 body {
   background: #fcead7;
   color: #67544e;
+   font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 h1 {
   font-size: 120px;
@@ -8,4 +10,5 @@ h1 {
     font-family: 'Roboto', sans-serif;
   text-align: center;
 }
+
 
