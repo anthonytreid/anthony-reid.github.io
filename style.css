@@ -1,13 +1,13 @@
 body {
-  background: #f44c29;
-  color: #f4a67d;
+  background: #F2EADF;
+  color: #8C443E;
   font-family: "Roboto", sans-serif;
   text-align: center;
   font-size: 30px;
 }
 h1 {
   font-size: 120px;
-  color: #67544e;
+  color: #8C443E;
   font-family: "Roboto", sans-serif;
   text-align: center;
 }
@@ -18,15 +18,16 @@ nav {
 }
 a {
   text-decoration: none;
-  background: #f39a58;
+  background: #8C443E;
   color: white;
   margin: 20px;
   padding: 20px;
-  border-radius: 0px;
+  border-radius: 30px;
   -webkit-box-shadow: 15px 15px 0px 5px #000000;
   box-shadow: 15px 15px 0px 5px #000000;
 }
 a:hover{
   background: #f39a58;
   color: white;
+  border-radius: 0px;
 }
