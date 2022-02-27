@@ -1,5 +1,5 @@
 body {
-  background: #F2EADF;
+  background: #FA4E05;
   color: #8C443E;
   font-family: 'Anton', sans-serif;;
   text-align: center;
@@ -7,7 +7,7 @@ body {
 }
 h1 {
   font-size: 120px;
-  color: #e84905;
+  color: #00AD96;
   font-family: 'Anton', sans-serif;;
   text-align: center;
   text-shadow: 15px 15px 5px black;
@@ -19,16 +19,16 @@ nav {
 }
 a {
   text-decoration: none;
-  background: #e84905;
+  background: #00AD96;
   color: white;
   margin: 20px;
   padding: 20px;
   border-radius: 40px;
-  -webkit-box-shadow: 15px 15px 0px 5px #000000;
+  -webkit-box-shadow: 15px 15px 5px 5px #000000;
   box-shadow: 15px 15px 5px 5px #000000;
 }
 a:hover{
-  background: #f39a58;
+  background: #7A4027;
   color: white;
   border-radius: 0px;
 }
