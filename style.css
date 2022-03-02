@@ -1,5 +1,5 @@
 body {
-  background: #e2532f;
+  background: #065125;
   color: #dda033;
   font-family: "Anton", sans-serif;
   text-align: center;
@@ -28,7 +28,7 @@ a {
   box-shadow: 15px 15px 5px 5px #000000;
 }
 a:hover {
-  background: #065125;
+  background: #0D97AC;
   color: #e0d8c3;
   border-radius: 40px;
   transform: scale(1.1);
