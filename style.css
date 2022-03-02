@@ -26,8 +26,6 @@
   }
 }
 
-
-
 body {
   background: linear-gradient(180deg, #065125 0%, #0b9e48 100%);
   color: #dda033;
@@ -64,7 +62,7 @@ a {
   transition: all 0.5s ease;
 }
 a:hover {
-  background: #E2532F;
+  background: #dda033;
   color: white;
   border-radius: 40px;
   transform: scale(1.1);
