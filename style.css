@@ -4,6 +4,10 @@ body {
   font-family: "Anton", sans-serif;
   text-align: center;
   font-size: 30px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
 }
 h1 {
   font-size: 120px;
@@ -21,16 +25,16 @@ a {
   text-decoration: none;
   background: #dda033;
   color: black;
-  margin: 20px;
+  margin: 40px;
   padding: 20px;
-  border-radius: 40px;
+  border-radius: 0px;
   -webkit-box-shadow: 15px 15px 5px 5px #000000;
   box-shadow: 15px 15px 5px 5px #000000;
   transition: all 0.5s ease;
 }
 a:hover {
   background: #E2532F;
-  color: black;
+  color: white;
   border-radius: 40px;
   transform: scale(1.1);
 }
