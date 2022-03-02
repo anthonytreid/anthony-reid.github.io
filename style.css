@@ -20,16 +20,17 @@ nav {
 a {
   text-decoration: none;
   background: #dda033;
-  color: #e0d8c3;
+  color: black;
   margin: 20px;
   padding: 20px;
   border-radius: 40px;
   -webkit-box-shadow: 15px 15px 5px 5px #000000;
   box-shadow: 15px 15px 5px 5px #000000;
+  transition: all 0.5s ease;
 }
 a:hover {
-  background: #0D97AC;
-  color: #e0d8c3;
+  background: #E2532F;
+  color: black;
   border-radius: 40px;
   transform: scale(1.1);
 }
