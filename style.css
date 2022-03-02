@@ -29,7 +29,7 @@
 
 
 body {
-  background: #065125;
+  background: linear-gradient(180deg, #065125 0%, #0b9e48 100%);
   color: #dda033;
   font-family: "Anton", sans-serif;
   text-align: center;
